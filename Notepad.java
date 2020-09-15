@@ -293,7 +293,7 @@ class Notepad extends JFrame implements ActionListener{
 	private String fileadd;
 	private String filename;
 	private boolean isWrap;
-	private String selected;
+	
 	
 	public static void main(String...s){
 		new Notepad();
